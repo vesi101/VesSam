@@ -73,6 +73,17 @@ AsTeRICS Grid ist ein User-Interface, welches die smarte Steuerung in verschiede
 7. Bei 'Daten' wurde der Teil der Küche und die jeweilige Operation (ON/OFF) hinzugefügt (openHAB des gewünschten Smart-Living-Lab Item)
 
 
+**Allgemeines Grid:**
+![Screen Shot 2021-11-09 at 10 55 58 AM](https://user-images.githubusercontent.com/93941670/140909680-89683cbb-486a-4d1a-a36f-59e165adb223.png)
+
+**Extra Grid für Temperatur:**
+![Screen Shot 2021-11-09 at 11 44 05 AM](https://user-images.githubusercontent.com/93941670/140910133-6d993801-2119-4aba-a1ef-15356e31c814.png)
+
+**Asterics action für Smart Home mithilfe von openHAB**
+![Screen Shot 2021-11-09 at 11 55 21 AM](https://user-images.githubusercontent.com/93941670/140911681-0d78dd2f-0b74-46bf-abad-4037db6c2de1.png)
+
+
+
 # 4.	Computer
 Ein Leben ohne Internet ist kaum mehr vorstellbar. Shoppen, Reisen und Kulturevents buchen, sich informieren, etc. Immer mehr alltägliche Handlungen finden über das Internet statt. Trotzdem ist das Internet nicht für alle auf gleicher Art und Weise zugänglich.
 Personen mit Beeinträchtigung wollen auch ihre Zeit im Internet verbringen. Sie wollen vielleicht nicht vieles aber beispielsweise ein Mail schreiben zu können, Musik  zu hören oder etwas recherchieren. 
@@ -90,9 +101,13 @@ Mit Click2Speak gibt es ein weiteres, freies und kostenloses Programm, die für 
 
 
 ## 4.2. Was ist Click2Speak?
+
+
+
 Click2Speak ist eine kostenlose Bildschirmtastatur, die für die Benutzung mit einer Augen- oder Kopfsteuerung konzipiert ist. Man kann damit komfortabel schreiben, ohne seine Arme verwenden zu müssen. Darüber hinaus verfügt das Programm über eine Vielzahl weiterer Funktionen zur allgemeinen Computersteuerung.
 Hier gibt es der Link zum kostenlosen Downloaden. (https://www.click2speak.net/)
 
+![click2speak](https://user-images.githubusercontent.com/93941670/140919961-298ad92c-da47-49ba-816d-c6ca891fdff5.jpeg)
 
 **Schnellübersicht Hauptfenster Click2Speak** 
 (siehe Screenshot im 'Photos' Ordner)	 
@@ -124,6 +139,8 @@ Durch die Verwendung vom Eye-Tracker mit Click2Speak wurde die Bedienung der Tas
 ## 4.3. Computerspiel Spielen:
 Für die Unterhaltung wurde das Spiel 'Tap Tap Parking' gewählt.
 
+![Screen Shot 2021-11-09 at 2 48 45 PM](https://user-images.githubusercontent.com/93941670/140935821-8077dbcd-598b-4ac7-bb8f-9b61d4d172d5.png)
+
 kurze Beschreibung des Spieles: 
 
 Bei diesem Spiel geht es um das richtige Parken des Autos bzw. der Autos in die Parklücke. Das Auto fährt mit hoher Geschwindigkeit und man muss mit einem Klick auf die Maus den richtigen Moment finden um die Parklücke zu erwischen. Im ersten Level macht man dies mit einem Auto, weitere Levels werden immer schwieriger.
@@ -143,14 +160,17 @@ Das Klicken der Maus wird mit Fabi kontrolliert und der Cursor wird mit dem Eye-
 
 **Gerät:** Android
 
-**Am Laptop:**
+
+![yourphone](https://user-images.githubusercontent.com/93941670/140919596-d908633c-707b-4f93-a971-b6da27088f46.jpeg)
+
+**Am Laptop einstellen:**
 
 1. In Systemeinstellungen das Untermenü 'Telefon' öffnen. 
 2. Handy hinzufügen.
 3. 'Your Phone' App wird geöffnet und das Handy wird über Bluetooth mit dem Laptop verbunden. 
 
 
-**Am Handy:**
+**Am Handy einstellen:**
 
 1. Bluetooth einschalten.
 2. 'Your Phone Companion' runterladen und öffnen (QR-Code vom Laptop scannen).
@@ -164,8 +184,17 @@ Das Klicken der Maus wird mit Fabi kontrolliert und der Cursor wird mit dem Eye-
 
 Mithilfe von dem FittsTask2D kann man das Pfaddiagramm von den unterschiedlichen Eingabemethoden testen. Es wurden also Eye-Tracker und Fabi getestet. 
 
-Im Ordner 'Photos' wurden Screenshots von den jeweiligen Resultaten hinterlegt.
 
+**Hier sind die Resultate der FittsTask mit Fabi und Tobii.**
+
+ **Tobii Ergebnis**
+![Tobii](https://user-images.githubusercontent.com/93941670/140918635-b2882790-2ba6-499f-a0c6-60c3d56e818c.jpeg)
+
+**Keyboard Ergebnis**
+![keyboard](https://user-images.githubusercontent.com/93941670/140918889-d46bc782-44d5-40e8-8484-b6ae19c63e6f.jpeg)
+
+**Fabi Ergebnis**
+![fabi](https://user-images.githubusercontent.com/93941670/140919010-1d59cd22-310d-461a-9205-99d4b40e7d7f.jpeg)
 
 
 
